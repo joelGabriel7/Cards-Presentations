@@ -1,0 +1,70 @@
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px ;
+}
+body{
+    background-color: #094a79;
+}
+.jean{
+    color: aqua;
+
+}
+.joel{
+    color: #079CD5;
+}
+.Randy{
+
+    color: cornflowerblue;
+    
+}
+h3{
+    float: right ;
+    text-align: center;
+    margin-right: 80px;
+    margin-top: -3px;
+    font-size: -30px;
+    font-family: 'Open Sans', sans-serif;
+}
+.h3{
+    float: right ;
+    text-align: center;
+    margin-right: 55px;
+    margin-right: 75px;
+    margin-top: -3px;
+    margin-left: -20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    text-align: center;
+    padding-top: 25px;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.5;
+    white-space: normal;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+.conteiner{
+    width: 20%;
+    height: 350px;
+    padding: 15px;
+    float: left;
+    background-color: #022437;
+    color: white;
+    margin-top: 45px;
+    margin-left: 100px;
+    border: 2px solid #022437 ;
+    border-radius: 13px;
+    box-shadow: 3px 3px 5px #022437;
+    
+
+}
+
+
